@@ -57,6 +57,10 @@ python geoip.py --ip <IP_ADDRESS>
 python geoip.py --ip 1.1.1.1
 ```
 
+### Test run
+
+![GeoIP](https://github.com/TrixSec/GeoIP/blob/main/testrun/testrun.jpg?raw=true)]
+
 
 ### Explanation of Fields:
 
