@@ -9,7 +9,7 @@ A Python script that fetches and displays geolocation information for an IP addr
 
 ## Features
 
-- Fetches geolocation data for a given IP address using the IPWho API.
+- Fetches geolocation data for a given IP address.
 - Displays information like country, city, region, continent, timezone, and more.
 - Connection details such as ASN, ISP, and domain.
 - Bold and colored terminal output for better visibility.
